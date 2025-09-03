@@ -1,18 +1,9 @@
----
-title: Research Paper Finder
-emoji: 📈
-colorFrom: purple
-colorTo: green
-sdk: gradio
-sdk_version: 5.44.1
-app_file: app.py
-pinned: false
-license: mit
----
 
 # 🔬 AI Research Paper Finder
 
 *Powered by LlamaIndex + OpenRouter*
+<img width="1667" height="227" alt="image" src="https://github.com/user-attachments/assets/635c6d91-3bdd-4efb-9142-fbe7d4dead83" />
+
 
 An intelligent research paper discovery tool that uses **semantic search** and **AI-based ranking** to help researchers quickly find the most relevant academic papers.
 It combines **ArXiv’s research paper database** with **LlamaIndex’s vector embeddings** and **OpenRouter’s LLM capabilities** to provide:
